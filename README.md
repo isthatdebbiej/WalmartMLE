@@ -18,6 +18,8 @@ WalmartMLE is a project aimed at developing a machine learning pipeline for anal
 1. Scaled up the model training pipeline to run in parallel utilizing multiple cores on a computer using MirroredStrategy.
 2. Reorganized the code to ease pipeline definition.
 3. Created a custom pipeline using Sklearn Pipeline.
+
+
    ![image](https://github.com/isthatdebbiej/WalmartMLE/assets/6524599/47065bc4-e227-496c-a7db-e2dbacd962f5)
 
 
