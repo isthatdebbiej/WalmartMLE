@@ -27,7 +27,7 @@ WalmartMLE is a project aimed at developing a machine learning pipeline for anal
 
 - [MirroredStrategy](https://www.tensorflow.org/api_docs/python/tf/distribute/MirroredStrategy)
 - [Customizing Scikit-Learn Pipelines]([https://www.tensorflow.org/api_docs/python/tf/distribute/MirroredStrategy](https://towardsdatascience.com/customizing-scikit-learn-pipelines-write-your-own-transformer-fdaaefc5e5d7))
-- 
+  
 
 ## Author
 
