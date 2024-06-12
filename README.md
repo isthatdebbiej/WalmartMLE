@@ -10,7 +10,7 @@ WalmartMLE is a project aimed at developing a machine learning pipeline for anal
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Ensure that the necessary data files (calendar.csv, sales_train_validation.csv, sell_prices.csv) are located in the data folder according to the provided Folder Structure.png.
+2. Ensure that the necessary data files (calendar.csv, sales_train_validation.csv, sell_prices.csv) are in the data folder according to the provided Folder Structure.png.
 3. Run the main script to execute the machine learning pipeline and generate forecasts.
 
 ## Features
@@ -26,6 +26,8 @@ WalmartMLE is a project aimed at developing a machine learning pipeline for anal
 ## Documentation
 
 - [MirroredStrategy](https://www.tensorflow.org/api_docs/python/tf/distribute/MirroredStrategy)
+- [Customizing Scikit-Learn Pipelines]([https://www.tensorflow.org/api_docs/python/tf/distribute/MirroredStrategy](https://towardsdatascience.com/customizing-scikit-learn-pipelines-write-your-own-transformer-fdaaefc5e5d7))
+- 
 
 ## Author
 
