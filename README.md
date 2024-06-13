@@ -2,7 +2,7 @@
 
 ## Introduction
 
-WalmartMLE is a project aimed at developing a machine learning pipeline for analyzing and forecasting sales data from Walmart stores. The goal is to scale up the model training pipeline to run in parallel utilizing multiple cores on a computer.
+The goal is to scale up the model training pipeline to run in parallel utilizing multiple cores on a computer. The model has been developed by the data Scientists at Walmart for the M5 competition posted on Kaggle.
 
 ## Installation
  pip install -r requirements.txt
@@ -26,6 +26,8 @@ WalmartMLE is a project aimed at developing a machine learning pipeline for anal
 
 - [MirroredStrategy](https://www.tensorflow.org/api_docs/python/tf/distribute/MirroredStrategy)
 - [Customizing Scikit-Learn Pipelines](https://towardsdatascience.com/customizing-scikit-learn-pipelines-write-your-own-transformer-fdaaefc5e5d7)
+- [Kaggle M5 Forecasting](https://www.kaggle.com/competitions/m5-forecasting-accuracy)
+  
 
 
 ## Author
