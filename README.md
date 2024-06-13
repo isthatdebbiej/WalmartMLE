@@ -15,7 +15,7 @@ The goal is to scale up the model training pipeline to run in parallel utilizing
 
 ## Features
 
-1. Scaled up the model training pipeline to run in parallel utilizing multiple cores on a computer using MirroredStrategy. Here, we are using all the GPUs available for synchronous training across multiple replicas on one machine.![image](https://github.com/isthatdebbiej/WalmartMLE/assets/6524599/0925d6e9-6c88-40c6-a15d-4ba400eca640)
+1. Scaled up the model training pipeline to run in parallel utilizing multiple cores on a computer using MirroredStrategy. Here, we are using all the GPUs available for synchronous training across multiple replicas on one machine.  ![image](https://github.com/isthatdebbiej/WalmartMLE/assets/6524599/0925d6e9-6c88-40c6-a15d-4ba400eca640)
 2. Reorganized the code to ease pipeline definition.
 3. Created a custom pipeline using Sklearn Pipeline.
 
